@@ -1,4 +1,4 @@
-# Celebal_Assignment5
+# Celebal_Assignment6
 # Data Preprocessing and Feature Engineering - Phase 2
 
 This repository contains the code and documentation for the second phase of data preprocessing and feature engineering. The main objectives of this phase are to handle missing values, encode categorical variables, create interaction features, add polynomial features, perform binning, and scale/normalize the data.
